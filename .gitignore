@@ -3,3 +3,6 @@
 ################################################################################
 
 /CodeDocument/.vs/CodeDocument
+/CodeDocument/packages/DocX.1.7.0
+/CodeDocument/obj/Debug
+/CodeDocument/bin/Debug
